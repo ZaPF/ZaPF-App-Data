@@ -1,0 +1,87 @@
+---
+
+- name: AK Opa erzählt vom Krieg
+  responsible: Opa
+  room: D 114
+  slotid: AK1
+  url: https://zapf.wiki/WiSe17_AK_Opa
+
+- name: AK BAföG
+  responsible: Petrie
+  room: D 308
+  slotid: AK1
+  url: https://zapf.wiki/WiSe17_AK_BAf%C3%B6G
+
+- name: AK CHE Ranking
+  responsible: Thomi, Fredrica, Sonja
+  room: D 223
+  slotid: AK1
+  url: https://zapf.wiki/WiSe17_AK_CHE_Ranking
+
+- name: AK Ehemalige ZaPFika
+  responsible: Tobi, Paddy
+  room: D 224
+  slotid: AK1
+  url: https://zapf.wiki/WiSe17_AK_Alumni
+
+- name: AK Nullergebnisse
+  responsible: Jan
+  room: D 201
+  slotid: AK1
+  url: https://zapf.wiki/WiSe17_AK_Nullergebnisse
+
+- name: WS MuM
+  responsible: Lina
+  room: B 019
+  slotid: AK1
+  url: https://zapf.wiki/WiSe17_WS_MuM
+
+- name: WS Reso-Schreiben
+  responsible: Björg
+  room: C 007
+  slotid: AK1
+  url: https://zapf.wiki/
+
+- name: Coming Soon
+  responsible: NN
+  room: B 019
+  slotid: AK2
+  url: https://zapf.wiki/
+
+- name: Coming Soon
+  responsible: NN
+  room: B 019
+  slotid: AK3
+  url: https://zapf.wiki/
+
+- name: Coming Soon
+  responsible: NN
+  room: B 019
+  slotid: AK4
+  url: https://zapf.wiki/
+
+- name: Coming Soon
+  responsible: NN
+  room: B 019
+  slotid: AK5
+  url: https://zapf.wiki/
+
+- name: Coming Soon
+  responsible: NN
+  room: B 019
+  slotid: AK6
+  url: https://zapf.wiki/
+
+- name: Coming Soon
+  responsible: NN
+  room: B 019
+  slotid: AK7
+  url: https://zapf.wiki/
+
+- name: Coming Soon
+  responsible: NN
+  room: B 019
+  slotid: BU
+  url: https://zapf.wiki/
+
+

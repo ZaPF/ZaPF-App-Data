@@ -1,0 +1,160 @@
+{
+    "arbeitskreise": [
+        {
+            "name": "AK Opa erz\u00e4hlt vom Krieg",
+            "responsible": "Opa",
+            "room": "D 114",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_Opa"
+        },
+        {
+            "name": "AK BAf\u00f6G",
+            "responsible": "Petrie",
+            "room": "D 308",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_BAf%C3%B6G"
+        },
+        {
+            "name": "AK CHE Ranking",
+            "responsible": "Thomi, Fredrica, Sonja",
+            "room": "D 223",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_CHE_Ranking"
+        },
+        {
+            "name": "AK Ehemalige ZaPFika",
+            "responsible": "Tobi, Paddy",
+            "room": "D 224",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_Alumni"
+        },
+        {
+            "name": "AK Nullergebnisse",
+            "responsible": "Jan",
+            "room": "D 201",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_AK_Nullergebnisse"
+        },
+        {
+            "name": "WS MuM",
+            "responsible": "Lina",
+            "room": "B 019",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/WiSe17_WS_MuM"
+        },
+        {
+            "name": "WS Reso-Schreiben",
+            "responsible": "Bj\u00f6rg",
+            "room": "C 007",
+            "slotid": "AK1",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK2",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK3",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK4",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK5",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK6",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "AK7",
+            "url": "https://zapf.wiki/"
+        },
+        {
+            "name": "Coming Soon",
+            "responsible": "NN",
+            "room": "B 019",
+            "slotid": "BU",
+            "url": "https://zapf.wiki/"
+        }
+    ],
+    "slots": [
+        {
+            "begin": "2017-10-29T07:00:00+0100",
+            "end": "2017-10-29T09:00:00+0100",
+            "id": "AK1",
+            "name": "Arbeitskreis 1",
+            "shortname": "AK1"
+        },
+        {
+            "begin": "2017-10-29T10:00:00+0100",
+            "end": "2017-10-29T12:00:00+0100",
+            "id": "AK2",
+            "name": "Arbeitskreis 2",
+            "shortname": "AK2"
+        },
+        {
+            "begin": "2017-10-29T14:00:00+0100",
+            "end": "2017-10-29T16:00:00+0100",
+            "id": "AK3",
+            "name": "Arbeitskreis 3",
+            "shortname": "AK3"
+        },
+        {
+            "begin": "2017-10-29T17:00:00+0100",
+            "end": "2017-10-29T19:00:00+0100",
+            "id": "AK4",
+            "name": "Arbeitskreis 4",
+            "shortname": "AK4"
+        },
+        {
+            "begin": "2017-10-30T15:00:00+0100",
+            "end": "2017-10-30T17:00:00+0100",
+            "id": "AK5",
+            "name": "Arbeitskreis 5",
+            "shortname": "AK5"
+        },
+        {
+            "begin": "2017-10-31T08:00:00+0100",
+            "end": "2017-10-31T10:00:00+0100",
+            "id": "AK6",
+            "name": "Arbeitskreis 6",
+            "shortname": "AK6"
+        },
+        {
+            "begin": "2017-10-31T11:00:00+0100",
+            "end": "2017-10-31T13:00:00+0100",
+            "id": "AK7",
+            "name": "Arbeitskreis 7",
+            "shortname": "AK7"
+        },
+        {
+            "begin": "2017-10-31T15:00:00+0100",
+            "end": "2017-10-31T17:00:00+0100",
+            "id": "BU",
+            "name": "Backup-Arbeitskreis",
+            "shortname": "Backup"
+        }
+    ]
+}
